@@ -19,4 +19,8 @@ public class InterviewQuestion {
 
     private String category;
     private String question;
+
+    private String text; //rever se este atributo será deste model mesmo.
+
+
 }
